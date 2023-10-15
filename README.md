@@ -15,4 +15,5 @@
 :small_blue_diamond: Lista  (Implementação com Alocação Dinâmica de Memória)<br>
 :small_blue_diamond: Deque  <br>
 :small_blue_diamond: Conjunto  <br>
+:small_blue_diamond: Apresentação 1º Etapa <br>
 
